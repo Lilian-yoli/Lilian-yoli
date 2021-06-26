@@ -5,6 +5,8 @@
 
 Dedicated back-end engineer familiar with **API development** and implementation of **MySQL and Redis**. Accomplished and launched two websites projects in two months with experience in **server deployment on AWS**. I am a enthusiastic programmer revelled in solving problems by programming and implementing new technologies. Also, with **cross-industry background**, 5 years experience in **digital marketing industry**, made me much quicker to understand the business logic.<br>
  
+ 
+### Project Co-Car
 The second project Co-Car is a carpooling matching website based in Taiwan. The site connects drivers with empty seats to co-travellers looking for a ride. It aim to make travel social, money-saving and more efficient.
 
 ![Co-Car](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/Co-Car_Home.png)
@@ -17,6 +19,7 @@ The second project Co-Car is a carpooling matching website based in Taiwan. The 
 * Performed unit test by Mocha and Chai.
 * The to do function: Applying MySQL spatial functions to optimize the calculation.
 
+### Project STYLiSH
 My first personal project-STYLiSH, built in 3 weeks, is a fashion e-commerce website to practice MySQL CRUD operation with products, campaigns, orders and users management. Integrated user flow on a website from login to checkout with the payment system. <br>
 
 ![STYLiSH](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/STYLiSH%20Homepage.png)
