@@ -7,6 +7,8 @@ Dedicated back-end engineer familiar with **API development** and implementation
  
 The second project Co-Car is a carpooling matching website based in Taiwan. The site connects drivers with empty seats to co-travellers looking for a ride. It aim to make travel social, money-saving and more efficient.
 
+![Co-Car](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/Co-Car_Home.png)
+
 #### The Highlight of Co-Car
 * Suggested best matching routes for drivers/passengers by **optimized calculation with MySQL** and **Google Direction API**.
 * Immediate map demonstration with address after users inputted their location information through implementing **Google Map APIs**.
@@ -16,6 +18,8 @@ The second project Co-Car is a carpooling matching website based in Taiwan. The 
 * The to do function: Applying MySQL spatial functions to optimize the calculation.
 
 My first personal project-STYLiSH, built in 3 weeks, is a fashion e-commerce website to practice MySQL CRUD operation with products, campaigns, orders and users management. Integrated user flow on a website from login to checkout with the payment system. <br>
+
+![STYLiSH](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/STYLiSH%20Homepage.png)
 
 #### The Highlight of STYLiSH
 * Diversified login channels for user convenience via **third-party login Facebook API**.
