@@ -11,7 +11,7 @@ The second project Co-Car is a carpooling matching website based in Taiwan. The 
 
 ![Co-Car](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/Co-Car_Home.png)
 
-#### The Highlight of Co-Car
+#### The Highlights of Co-Car
 * Suggested best matching routes for drivers/passengers by **optimized calculation with MySQL** and **Google Direction API**.
 * Immediate map demonstration with address after users inputted their location information through implementing **Google Map APIs**.
 * By applying **Socket.IO** to fufill the real-time chatting and notification-sending functions.
@@ -24,7 +24,7 @@ My first personal project-STYLiSH, built in 3 weeks, is a fashion e-commerce web
 
 ![STYLiSH](https://github.com/Lilian-yoli/Lilian-yoli/blob/main/STYLiSH%20Homepage.png)
 
-#### The Highlight of STYLiSH
+#### The Highlights of STYLiSH
 * Diversified login channels for user convenience via **third-party login Facebook API**.
 * Integrated credit card payment system by implementing third-party **TapPay API**.
 * Visualized selling data for further analysis through different **SQL functions** and application of **graph visualized library Plotly**.
