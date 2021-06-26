@@ -13,6 +13,7 @@ The second project Co-Car is a carpooling matching website based in Taiwan. The 
 * By applying **Socket.IO** to fufill the real-time chatting and notification-sending functions.
 * Efficiently stored dynamic generated picture links from Google Places API via Redis.
 * Performed unit test by Mocha and Chai.
+* The to do function: Applying MySQL spatial functions to optimize the calculation.
 
 My first personal project-STYLiSH, built in 3 weeks, is a fashion e-commerce website to practice MySQL CRUD operation with products, campaigns, orders and users management. Integrated user flow on a website from login to checkout with the payment system. <br>
 
