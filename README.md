@@ -3,7 +3,7 @@
 <!--
 **Lilian-yoli/Lilian-yoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Dedicated back-end engineer familiar with **API development** and implementation of **MySQL and Redis**. Accomplished and launched two websites projects in two months with experience in **server deployment on AWS**. I am a enthusiastic programmer revelled in solving problems by programming and implementing new technologies. Also, with **cross-industry background**, 5 years experience in **digital marketing industry**, made me much quicker to understand the business logic.<br>
+Dedicated back-end engineer familiar with **API development** and implementation of **MySQL and Redis**. Accomplished and launched two websites projects in two months with experience in **server deployment on AWS**. I am an enthusiastic programmer revelled in solving problems by programming and implementing new technologies. Also, with **cross-industry background**, 5 years experience in **digital marketing industry**, made me much quicker to understand the business logic.<br>
  
  
 ### Project Co-Car
